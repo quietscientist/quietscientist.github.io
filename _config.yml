@@ -4,3 +4,5 @@ plugins:
   - jekyll-remote-theme
 
 title: Test Site
+navbar-links:
+  About Me: "aboutme"
